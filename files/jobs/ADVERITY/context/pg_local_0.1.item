@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_cpwoYCUKEeyE79BA4rNDqQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_cpwoYSUKEeyE79BA4rNDqQ" comment="" name="pg_local_Database" prompt="pg_local_Database?" promptNeeded="false" type="id_String" value="adverity"/>
+  <contextParameter xmi:id="_cpwoYiUKEeyE79BA4rNDqQ" comment="" name="pg_local_Password" prompt="pg_local_Password?" promptNeeded="false" type="id_Password" value="OQBvgO2EXoboIl2iretScw=="/>
+  <contextParameter xmi:id="_cpwoYyUKEeyE79BA4rNDqQ" comment="" name="pg_local_Schema" prompt="pg_local_Schema?" promptNeeded="false" type="id_String" value="adv_schema"/>
+  <contextParameter xmi:id="_cpwoZCUKEeyE79BA4rNDqQ" comment="" name="pg_local_Server" prompt="pg_local_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_cpwoZSUKEeyE79BA4rNDqQ" comment="" name="pg_local_Login" prompt="pg_local_Login?" promptNeeded="false" type="id_String" value="adverity"/>
+  <contextParameter xmi:id="_cpwoZiUKEeyE79BA4rNDqQ" comment="" name="pg_local_Port" prompt="pg_local_Port?" promptNeeded="false" type="id_String" value="5432"/>
+</talendfile:ContextType>

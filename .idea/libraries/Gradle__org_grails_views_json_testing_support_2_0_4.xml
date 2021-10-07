@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:views-json-testing-support:2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/views-json-testing-support/2.0.4/327b0fd4a238ad392eccfd990c13b9d95bdc4f6/views-json-testing-support-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/views-json-testing-support/2.0.4/32f0d0eb0d46756933e6166c22eeac4f7cb59698/views-json-testing-support-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

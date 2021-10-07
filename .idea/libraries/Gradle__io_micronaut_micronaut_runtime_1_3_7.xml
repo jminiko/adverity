@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut:micronaut-runtime:1.3.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-runtime/1.3.7/22402c41b59cd99e973a100c703c3b38e89651a0/micronaut-runtime-1.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-runtime/1.3.7/13c7fd3a0b86663d2c29174bbcb979a1154e68b0/micronaut-runtime-1.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
