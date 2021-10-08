@@ -6,7 +6,9 @@ there is the loading thanks to TALEND Open Studio (Data Integration) version 6.2
 the following Github repo contains the grails code, the talend job and the talend project
 
 the datastore chosen for the challenge is postgresql v9+
+
 the db stuff and related are in *files* directory
+
 ---
 First create a *adverity* database
 by using the following command in psql:
