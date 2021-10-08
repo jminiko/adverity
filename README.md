@@ -74,7 +74,7 @@ see TODO
 ## Sample queries
 
 http://localhost:8080/central?selectedCols=campaign,datasource&groupBy=campaign,datasource&sumCols=clicks,impressions
-will query the sums of clicks and impressions grouped by campaign
+will query the sums of clicks and impressions grouped by campaign and datasource
 # TODO
 the API should be normalized for adding the columns to the result value
 e.g. {'datasource':'whatever','sum(clicks)':32}
